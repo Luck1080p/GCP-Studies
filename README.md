@@ -1,5 +1,5 @@
 # Google Cloud Platform Studies
-Neste repositorio busco armazenar todos os meus estudos a respeito da plataforma em nuvem do Google.
+* Neste repositorio busco armazenar todos os meus estudos a respeito da plataforma em nuvem do Google.
 -----
 # Fontes utilizadas:
 * Habilitadades do GCP : https://www.cloudskillsboost.google/
