@@ -54,3 +54,8 @@
    - [GCP-Audit/Monitoring-Simulado-Reforço](https://docs.google.com/forms/u/3/d/e/1FAIpQLSduWiATRlzEkB7PdswM1OjTCZjULvgF7PAIHX1gqPk22RIzNQ/viewform)
    - [GCP-IAM-Simulado-Reforço](https://docs.google.com/forms/d/e/1FAIpQLScR1lg4FeBNg5RhL3XoOxcq4wL0LecEdpHFntbZqAfrhyYIag/viewform)
    - [GCP-Billing/Manager-Simulado-Reforço](https://docs.google.com/forms/d/e/1FAIpQLSe0gBM4RTezti5409yBi307ki_Xvgt9nEYUzjWSArl0G2Ae4Q/viewform)
+   ---
+ ## Para obter um voucher de até 50% siga os links abaixo :
+   - https://support.google.com/cloud-certification/answer/10055456?hl=en
+   - https://cloud.google.com/edu/career-readiness
+   
