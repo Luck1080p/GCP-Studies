@@ -36,7 +36,7 @@
   - [gcloud cheats para memorização dos comandos](https://cloud.google.com/sdk/docs/images/gcloud-cheat-sheet.pdf)
   - [Roadmap - Um mapa com todos os serviços do GCP](https://googlecloudcheatsheet.withgoogle.com/)
   ---
-* Simulados (Sem duvida o mais importante para a prova, com base nos simulados é possível saber o que você e o que ainda falta saber)
+* Simulados (Sem duvida o mais importante para a prova, com base nos simulados é possível saber o que ainda falta aprender ou melhorar)
   - [Exemtopics - GCP ACE](https://www.examtopics.com/exams/google/associate-cloud-engineer/view/) (Comprei um simulado da udemy porém devo admitir que me arrependo pois todas as perguntas ou era do examtopics ou de algum outro site gratuito. Quer ter uma visão geral das perguntas e explicações de pessoas que já fizeram a prova, vai de examtopics, as primeiras 96 perguntas são de graça!)
   - [Certification-Questions](https://www.certification-questions.com/google-exam/associate-cloud-engineer-dumps.html)
   - [VMExam](https://www.vmexam.com/google/google-gcp-ace-certification-exam-sample-questions)
